@@ -1,0 +1,34 @@
+[
+	{
+		"id":1,
+		"shop":"院落创意菜",
+		"picture":"https://p0.meituan.net/deal/e6864ed9ce87966af11d922d5ef7350532676.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+		"price":19.9,
+		"ifCommented":false,
+		"product":"百果香（冷饮）1扎"
+	},
+	{
+		"id":2,
+		"shop":"院落创意菜",
+		"picture":"https://p0.meituan.net/deal/e6864ed9ce87966af11d922d5ef7350532676.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+		"price":19.9,
+		"ifCommented":false,
+		"product":"百果香（冷饮）1扎"
+	},
+	{
+		"id":3,
+		"shop":"院落创意菜",
+		"picture":"https://p0.meituan.net/deal/e6864ed9ce87966af11d922d5ef7350532676.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+		"price":19.9,
+		"ifCommented":false,
+		"product":"百果香（冷饮）1扎"
+	},
+	{
+		"id":4,
+		"shop":"院落创意菜",
+		"picture":"https://p0.meituan.net/deal/e6864ed9ce87966af11d922d5ef7350532676.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+		"price":19.9,
+		"ifCommented":false,
+		"product":"百果香（冷饮）1扎"
+	}	
+]
