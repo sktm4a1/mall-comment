@@ -10,7 +10,7 @@ class OrderList extends Component {
 	}
 
 	componentDidMount() {
-		fetch('/mock/orders.json').then(res => {
+		fetch('./mock/orders.json').then(res => {
 			if(res.ok){
 				res.json().then(data => {
 					this.setState({
